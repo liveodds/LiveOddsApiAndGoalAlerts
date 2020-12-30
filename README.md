@@ -1,6 +1,9 @@
 ## Welcome to Live Odds / Stats Api And Goal Alerts
 
 ###  You can use our api in order to get live score and odds. Live stats from live games, inluding cards, corners, attacks, dangerous attacks!
+### **** NEW Prediction api ###
+
+You can now user our api to get inplay predictions!
 
 
 
