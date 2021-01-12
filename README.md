@@ -15,6 +15,22 @@ Subscribe to this api to get instant goal alerts!
 
 Contact me via using [e-mail](mailto:liveodds2@gmail.com) or in [Telegram](https://t.me/LiveOddsAndAlerts "Telegram") for prices and packages
 
+# Goal alert api
+ http request that produces text/event-stream
+ ```
+ 	curl -H "Authorization: Bearer your key here " http://ip:port/api/stats/data
+
+```
+
+Sample response
+
+```
+event:Goal
+data:[{"home":"homeTeam1","away":"awayTeam1","homeScore":1,"awayScore":0}]
+
+event:Goal
+data:[{"home":"homeTeam2","away":"awayTeam2","homeScore":1,"awayScore":1}]
+```
 # Sample live stats response
 ```
 [
