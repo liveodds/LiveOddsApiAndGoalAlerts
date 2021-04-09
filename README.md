@@ -1,5 +1,8 @@
 ## Welcome to Live Odds / Stats Api And Goal Alerts
 
+Check out oure site
+http://www.football-inplay.com/
+
 ###  You can use our api in order to get live score and odds. Live stats from live games, inluding cards, corners, attacks, dangerous attacks!
 ### **** NEW Prediction api ###
 
